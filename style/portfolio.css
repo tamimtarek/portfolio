@@ -163,7 +163,7 @@ footer{
     width: 50%;
     
 }
-.Connect input[type="text"] , input[type="email"] , textarea {
+.Connect input[type="text"] , .Connect input[type="email"] , textarea {
     display: block;
     margin-bottom: 25px;
     padding: 18px 35px;
